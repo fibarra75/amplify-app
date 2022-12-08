@@ -31,3 +31,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/20311199/206558220-676b2887-e196-4a5f-a875-0af83837c252.png)
 
+## Comando básicos
+
+git status
+git add .
+git commit -m "Actualizacion Back Office ....."
+git push -u origin
+
